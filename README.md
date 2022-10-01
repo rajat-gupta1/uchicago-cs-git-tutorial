@@ -1,1 +1,2 @@
-# uchicago-cs-git-tutorial
+Rajat Gupta
+CNET ID: 123456789
